@@ -1,3 +1,9 @@
+layout: page
+title: "이것은 연습 파일입니다!!!"
+permalink: /test/
+
+이것은 테스트 파일입니다.
+
 이텔릭체는 *별 기호(Asterisks)* 혹은 _언더바 기호(Underscore)_ 를 사용하세요.
 두껍게는 **별 기호(asterisks)** 혹은 __언더바 기호(underscore)__ 를 2번씩 사용하세요.
 __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
